@@ -1,0 +1,4 @@
+O método equal2 é mais eficiente porque evita a necessidade de reduzir as 
+frações antes de comparar. Porem, o método que normaliza os números
+antes da comparação(reduzindo os termos) pode ser mais seguro em termos de 
+precisão para alguns casos de uso.
